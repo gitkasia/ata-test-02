@@ -2,5 +2,5 @@
 
 # say hello world
 
-echo hello world
+echo elo elo 320
 
