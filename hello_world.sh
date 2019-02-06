@@ -10,3 +10,5 @@ echo test 3
 
 echo test 4
 echo test 5
+
+echo trying again
